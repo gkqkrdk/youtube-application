@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env.local
+.env*.local
+__pycache__
+*.pyc
+cloudflared.exe
+cloudflared*.log
+dart_store.json
+dart_corp_codes.json
+daily_picks.json
